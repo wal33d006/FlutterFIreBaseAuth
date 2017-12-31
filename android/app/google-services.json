@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "306007829259",
+    "firebase_url": "https://memechat-8e6da.firebaseio.com",
+    "project_id": "memechat-8e6da",
+    "storage_bucket": "memechat-8e6da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306007829259:android:1c299f4bc077bbac",
+        "android_client_info": {
+          "package_name": "com.firebasetest.firebasesandbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306007829259-abapj2j5vtdqorsjgpqko5u6etqq1i5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebasetest.firebasesandbox",
+            "certificate_hash": "d2377f1a8fef38eea602145d979a4cb328537eae"
+          }
+        },
+        {
+          "client_id": "306007829259-bubhjk3qmlo07db61bv08c8kur2ea1gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpv7fdUSvRuI3nKut1xb4HpYeUC3stt_s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306007829259-jr9hbgqkji5fsh7b2o4he6j1vqlsv673.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firebasetest.firebasesandbox"
+              }
+            },
+            {
+              "client_id": "306007829259-bubhjk3qmlo07db61bv08c8kur2ea1gi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
